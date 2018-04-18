@@ -1,5 +1,3 @@
-___README FILE FOR DATAMINING ASSIGNMENT 2, FALL 2017 17. Nov, BDOUR ALZEER, 301332058 ___
-
 - Need to import these to run the code successfully:
 (import numpy as np, import pandas as pd, from matplotlib import pyplot as plt, from itertools import combinations, chain)
 
